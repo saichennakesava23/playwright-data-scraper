@@ -1,0 +1,5 @@
+# Ignore environment and session files
+.env
+session.json
+node_modules
+*.log
